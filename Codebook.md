@@ -92,5 +92,5 @@ Activity Labels
 * Walking_Downstairs (3): walking downstairs during test
 * Sitting (4): sitting during test
 * Standing (5): standing during test
-Laying (6): laying during test
+* Laying (6): laying during test
 
