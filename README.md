@@ -15,4 +15,3 @@ This is the "Getting and Cleaning Data" course project. The run_analysis.R file 
 10. Merges the test and training datasets together
 11. Converts activity and subject columns into factors
 12. Output a tidy dataset (tidy.txt) with mean value of each variable for each subject and each activity
->>>>>>> 4d750407437d23688cb6a8aca7aa80b2462400bc
