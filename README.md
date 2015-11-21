@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Getting-and-Cleaning-Data-Course-Project
-##This is the Getting and Cleaning Data Course Project.\The run analysis code in the run_analysis.R file does the following:
-=======
+
 # "Getting and Cleaning Data" Course Project
 
 This is the "Getting and Cleaning Data" course project. The run_analysis.R file contains a code that does the following:
